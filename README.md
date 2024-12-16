@@ -7,8 +7,7 @@ A fully functional **Sudoku game** built with **React** and **Zustand** as part 
 - **Hints**: Get hints for the selected cell.
 - **Timer**: Track how long it takes to solve the puzzle.
 - **Mistakes Counter**: Keep track of the mistakes made.
-- **Score Calculation**: Based on time, mistakes, and hints used.
-
+  
 
 **Features 📋**
 - **Dynamic Sudoku Boards**: Boards are dynamically generated with predefined difficulty.
