@@ -1,7 +1,7 @@
 # Sudoku Game 🎮-
 A fully functional Sudoku game built with React and Zustand as part of the GDSC NIT Calicut Web Development inductions task. This project allows users to play a classic Sudoku game with features like:
 
-Start/Restart Game: Generate new Sudoku boards dynamically.
+Start/Restart Game: Generate new Sudoku boards dynamically. <br>
 Pause/Resume: Take a break anytime and resume from where you left off.
 Hints: Get hints for the selected cell.
 Timer: Track how long it takes to solve the puzzle.
