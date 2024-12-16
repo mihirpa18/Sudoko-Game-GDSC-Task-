@@ -26,8 +26,8 @@ A fully functional **Sudoku game** built with **React** and **Zustand** as part 
 - **Install dependencies**
 - **Start the development server**
 Open the app in your browser at http://localhost:5173. <br>
-**Learnings 🧠**
-This project helped me gain hands-on experience with React, Zustand for state management, and building responsive, interactive web applications. Additionally, it was an opportunity to improve problem-solving skills and manage application state for complex logic like Sudoku boards.
+**Learnings 🧠** <br>
+- This project helped me gain hands-on experience with React, Zustand for state management, and building responsive, interactive web applications. Additionally, it was an opportunity to improve problem-solving skills and manage application state for complex logic like Sudoku boards.
 
 Feel free to fork this project, contribute, or suggest improvements. Feedback is always welcome! 😊
 
